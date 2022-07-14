@@ -49,9 +49,19 @@ body {
 }
 ```
 
+I used both HTML5 and ARIA landmarks for accesibility of the web page:
+
+```html
+<header role="banner"></header>
+<main role="main"></main>
+<footer role="contentinfo"></footer>
+```
+
 ### Useful resources
 
 - [CSSmatic Box Shadow Generator](https://www.cssmatic.com/box-shadow) - This tool helped me to generate box-shadow code for CSS.
+
+- [Deque University - Landmark](https://dequeuniversity.com/rules/axe/4.3/landmark-one-main?application=axeAPI) - In this web page, I learned to use HTML5 landmarks for accesibility of the web page..
 
 ## Author
 
