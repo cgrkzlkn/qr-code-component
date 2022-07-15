@@ -28,9 +28,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Built with
 
-- HTML
-- CSS
-- Flexbox
+- Semantic HTML5 Markup
+- CSS Flexbox
 
 ### What I learned
 
